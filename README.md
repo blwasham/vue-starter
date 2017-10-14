@@ -15,7 +15,13 @@ cd ~/GitHub/rkiel/vue-starter
 yarn install
 ```
 
-#### Staring a new project
+#### Atom
+
+```bash
+apm install language-vue
+```
+
+#### Create a sample project
 
 List available templates
 
@@ -23,14 +29,14 @@ List available templates
 yarn run vue list
 ```
 
-#### Create a new Vue project
+Create a new Vue project
 
 ```bash
 mkdir -p ~/GitHub/yourstuff
 yarn run vue  init webpack $_/sample
 ```
 
-#### Start your Vue project
+Start your Vue project
 
 ```bash
 cd ~/GitHub/yourstuff/sample
