@@ -36,7 +36,7 @@ mkdir -p ~/GitHub/yourstuff
 yarn run vue init webpack $_/sample
 ```
 
-Start your Vue project
+Start your Vue project (development)
 
 ```bash
 cd ~/GitHub/yourstuff/sample
@@ -44,3 +44,8 @@ yarn install
 yarn run dev
 ```
 
+Build your Vue project (production)
+
+```bash
+yarn run build
+```
