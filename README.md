@@ -33,7 +33,7 @@ Create a new Vue project
 
 ```bash
 mkdir -p ~/GitHub/yourstuff
-yarn run vue  init webpack $_/sample
+yarn run vue init webpack $_/sample
 ```
 
 Start your Vue project
