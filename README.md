@@ -49,4 +49,5 @@ Build your Vue project (production)
 ```bash
 cd ~/GitHub/yourstuff/sample
 yarn run build
+find dist --type f|sort
 ```
