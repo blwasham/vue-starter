@@ -47,5 +47,6 @@ yarn run dev
 Build your Vue project (production)
 
 ```bash
+cd ~/GitHub/yourstuff/sample
 yarn run build
 ```
