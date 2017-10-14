@@ -1,0 +1,11 @@
+{
+  "name": "vue-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rkiel/vue-starter.git",
+  "author": "rkiel <cygnus@pobox.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.2"
+  }
+}
