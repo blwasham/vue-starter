@@ -29,7 +29,7 @@ List available templates
 yarn run vue list
 ```
 
-Create a new Vue project
+Create a new Vue project (using webpack template)
 
 ```bash
 mkdir -p ~/GitHub/yourstuff
