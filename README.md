@@ -4,7 +4,7 @@
 #### Clone the repo
 
 ```bash
-mkdir -p  ~/GitHub/rkiel & cd $_
+mkdir -p  ~/GitHub/rkiel && cd $_
 git clone git@github.com:rkiel/vue-starter.git
 ```
 
