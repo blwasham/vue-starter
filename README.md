@@ -121,6 +121,7 @@ Build your Vue project
 
 ```bash
 cd /path/to/your/project/name
+
 yarn install
 yarn run build
 
