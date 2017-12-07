@@ -88,7 +88,7 @@ yarn run dev
 # npm run dev
 ```
 
-#### Development
+#### Production
 
 Build your Vue project
 
