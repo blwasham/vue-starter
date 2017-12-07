@@ -49,11 +49,22 @@ For example, the available official templates:
 Let's choose to use the webpack template.
 
 ```bash
-mkdir -p /path/to/your/project
+mkdir -p /path/to/your/project/name
 yarn run vue init webpack /path/to/your/project/name 
 
 # npm run vue init webpack /path/to/your/project/name
 ```
+
+* Target directory exists. Continue? **Yes**
+* Project name sample
+* Project description A Vue.js project
+* Author Bob <rkiel@consultwithcase.com>
+* Vue build standalone
+* Install vue-router? No
+* Use ESLint to lint your code? No
+* Set up unit tests No
+* Setup e2e tests with Nightwatch? No
+
 
 #### Development
 
