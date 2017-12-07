@@ -27,7 +27,7 @@ apm install language-vue
 
 #### Project Templates
 
-The Vue CLI supports several official Vue project templates.  To see a list of available templatesm
+The Vue CLI supports several official Vue project templates.  To see a list of available templates,
 
 ```bash
 yarn run vue list
