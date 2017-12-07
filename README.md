@@ -12,7 +12,7 @@ git clone git@github.com:rkiel/vue-starter.git
 
 ```bash
 cd ~/GitHub/rkiel/vue-starter
-yarn install
+yarn install  # npm install
 ```
 
 #### Atom
@@ -26,7 +26,7 @@ apm install language-vue
 List available templates
 
 ```bash
-yarn run vue list
+yarn run vue list # npm run vue list
 ```
 
 Create a new Vue project (using webpack template)
