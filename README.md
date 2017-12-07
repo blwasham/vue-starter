@@ -12,7 +12,9 @@ git clone git@github.com:rkiel/vue-starter.git
 
 ```bash
 cd ~/GitHub/rkiel/vue-starter
-yarn install  # npm install
+yarn install
+
+# npm install
 ```
 
 #### Atom
@@ -28,7 +30,9 @@ apm install language-vue
 The Vue CLI supports several official Vue project templates.  To see a list of available templatesm
 
 ```bash
-yarn run vue list # npm run vue list
+yarn run vue list
+
+# npm run vue list
 ```
 
 For example, the available official templates:
@@ -55,8 +59,11 @@ Start your Vue project.
 
 ```bash
 cd /path/to/your/project/name
-yarn install # npm install
-yarn run dev # npm run dev
+yarn install
+yarn run dev 
+
+# npm install
+# npm run dev
 ```
 
 #### Development
@@ -65,8 +72,11 @@ Build your Vue project
 
 ```bash
 cd /path/to/your/project/name
-yarn install # npm install
-yarn run build # npm run build
+yarn install
+yarn run build
+
+# npm install
+# npm run build
 ```
 
 Here's the production distribution.
