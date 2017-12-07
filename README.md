@@ -92,6 +92,12 @@ Open your browser to view the home page.
 
 * [http://localhost:8080](http://localhost:8080)
 
+To see live reload in action
+
+* Edit `src/components/HelloWorld.vue`
+* In the `script` section, change the value of `msg`
+* Save the file and see the browser page automatically update
+
 Put project under source control.
 
 ```bash
