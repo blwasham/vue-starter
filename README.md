@@ -72,7 +72,7 @@ The Vue CLI will prompt you.  Click **Enter** to select defaults.  For prompts w
     * Jest 
     * **Karma and Mocha**
     * none (configure it yourself) 
-* Setup e2e tests with Nightwatch? **N**
+* Setup e2e tests with Nightwatch? **n**
 
 
 #### Development
