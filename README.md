@@ -55,15 +55,24 @@ yarn run vue init webpack /path/to/your/project/name
 # npm run vue init webpack /path/to/your/project/name
 ```
 
+The Vue CLI will prompt you 
 * Target directory exists. Continue? **Yes**
-* Project name sample
-* Project description A Vue.js project
-* Author Bob <rkiel@consultwithcase.com>
-* Vue build standalone
-* Install vue-router? No
-* Use ESLint to lint your code? No
-* Set up unit tests No
-* Setup e2e tests with Nightwatch? No
+* Project name **replace project path name with just your project name**
+* Project description **enter a simple description**
+* Author **should default to your GitHub config user name and email**
+* Vue build
+    * **Runtime + Compiler**: recommended for most users 
+    * Runtime-only: about 6KB lighter min+gzip, but templates (or any Vue-specific HTML) are ONLY allowed in .vue files - render functions are required elsewhere 
+* Install vue-router? **Y**
+* Use ESLint to lint your code? **Y**
+    * **Standard** (https://github.com/standard/standard) 
+    * Airbnb (https://github.com/airbnb/javascript) 
+    * none (configure it yourself) 
+* Set up unit tests **Y**
+    * Jest 
+    * **Karma and Mocha**
+    * none (configure it yourself) 
+* Setup e2e tests with Nightwatch? **N**
 
 
 #### Development
