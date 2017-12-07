@@ -55,7 +55,7 @@ yarn run vue init webpack /path/to/your/project/name
 # npm run vue init webpack /path/to/your/project/name
 ```
 
-The Vue CLI will prompt you 
+The Vue CLI will prompt you.  Click **Enter** to select defaults.  For prompts with multiple options, use arrow keys to change.
 * Target directory exists. Continue? **Yes**
 * Project name **replace project path name with just your project name**
 * Project description **enter a simple description**
