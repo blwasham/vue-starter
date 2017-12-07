@@ -23,7 +23,7 @@ Install Atom language support for the `.vue` file type.
 apm install language-vue
 ```
 
-#### Create a sample project
+#### Project Templates
 
 The Vue CLI supports several official Vue project templates.  To see a list of available templatesm
 
@@ -40,26 +40,39 @@ For example, the available official templates:
 * webpack - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
 * webpack-simple - A simple Webpack + vue-loader setup for quick prototyping.
 
-Create a new Vue project (using webpack template)
+#### Create A Vue Project
+
+Let's choose to use the webpack template.
 
 ```bash
-mkdir -p ~/GitHub/yourstuff
-yarn run vue init webpack $_/sample
+mkdir -p /path/to/your/project
+yarn run vue init webpack /path/to/your/project/name # npm run vue init webpack /path/to/your/project/name
 ```
 
-Start your Vue project (development)
+#### Development
+
+Start your Vue project.
 
 ```bash
-cd ~/GitHub/yourstuff/sample
-yarn install
-yarn run dev
+cd /path/to/your/project/name
+yarn install # npm install
+yarn run dev # npm run dev
 ```
 
-Build your Vue project (production)
+#### Development
+
+Build your Vue project
 
 ```bash
-cd ~/GitHub/yourstuff/sample
-yarn install
-yarn run build
+cd /path/to/your/project/name
+yarn install # npm install
+yarn run build # npm run build
+```
+
+Here's the production distribution.
+
+```bash
 find dist -type f | sort
 ```
+
+
