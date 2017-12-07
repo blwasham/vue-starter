@@ -88,9 +88,9 @@ yarn run dev
 # npm run dev
 ```
 
-Open your browser.
+Open your browser to view the home page.
 
-[http://localhost:8080](http://localhost:8080)
+* [http://localhost:8080](http://localhost:8080)
 
 
 #### Production
