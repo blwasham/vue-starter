@@ -113,7 +113,7 @@ yarn run build
 # npm run build
 ```
 
-Here's the production distribution.
+Here's what the production distribution (`dist`) looks like.
 
 ```bash
 find dist -type f | sort
