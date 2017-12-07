@@ -92,6 +92,13 @@ Open your browser to view the home page.
 
 * [http://localhost:8080](http://localhost:8080)
 
+Put project under source control.
+
+```bash
+git init
+git add .
+git commit  -m "Initial commit"
+```
 
 #### Production
 
