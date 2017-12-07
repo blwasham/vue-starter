@@ -50,7 +50,9 @@ Let's choose to use the webpack template.
 
 ```bash
 mkdir -p /path/to/your/project
-yarn run vue init webpack /path/to/your/project/name # npm run vue init webpack /path/to/your/project/name
+yarn run vue init webpack /path/to/your/project/name 
+
+# npm run vue init webpack /path/to/your/project/name
 ```
 
 #### Development
