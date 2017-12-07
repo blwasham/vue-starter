@@ -5,7 +5,7 @@
 
 ```bash
 mkdir -p  ~/GitHub/rkiel && cd $_
-git clone git@github.com:rkiel/vue-starter.git
+git clone https://github.com/rkiel/vue-starter.git
 ```
 
 #### Install packages
