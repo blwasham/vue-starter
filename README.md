@@ -88,6 +88,11 @@ yarn run dev
 # npm run dev
 ```
 
+Open your browser.
+
+[http://localhost:8080](http://localhost:8080)
+
+
 #### Production
 
 Build your Vue project
