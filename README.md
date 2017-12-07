@@ -77,10 +77,19 @@ The Vue CLI will prompt you.  Click **Enter** to select defaults.  For prompts w
 
 #### Development
 
-Start your Vue project.
+Put project under source control.
 
 ```bash
 cd /path/to/your/project/name
+
+git init
+git add .
+git commit  -m "Initial commit"
+```
+
+Start your Vue project.
+
+```bash
 yarn install
 yarn run dev 
 
@@ -98,12 +107,12 @@ To see live reload in action
 * In the `script` section, change the value of `msg`
 * Save the file and see the browser page automatically update
 
-Put project under source control.
+To run the unit tests
 
 ```bash
-git init
-git add .
-git commit  -m "Initial commit"
+yarn test
+
+# npm test
 ```
 
 #### Production
